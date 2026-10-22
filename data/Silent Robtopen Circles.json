@@ -3,15 +3,15 @@
     "name": "Silent Robtopen Circles",
     "author": "Cube7isgood",
     "creators": ["Cube7isgood"],
-    "verifier": "WR: 9.03% - Cubewizard7",
+    "verifier": "not verified",
     "verification": "none",
-    "percentToQualify": 100,
+    "percentToQualify": 9,
     "password": "Copyable",
     "records": [
         {
             "user": "Cubewizard7",
             "link": "https://www.youtube.com/watch?v=l6ir4tgboGE",
-            "percent": 9.03,
+            "percent": 9,
             "hz": 60
         }
     ]
