@@ -1,0 +1,18 @@
+{
+    "id": 150880072,
+    "name": "Silent Robtopen Circles",
+    "author": "Cube7isgood",
+    "creators": ["Cube7isgood"],
+    "verifier": "WR: 9.03% - Cubewizard7",
+    "verification": "none",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Cubewizard7",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
