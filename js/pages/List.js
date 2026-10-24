@@ -98,9 +98,19 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Requirements to Create A Level<h3>
+                    <p>
+                        Level must be over 30 seconds long, and it must be verified by someone.
+                    </p>
+                    <p>
+                        Multiple people can work on a level.
+                    </p>
+                    <p>
+                        Verifier can be someone that didn't work on the level.
+                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, so is CBF)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
