@@ -100,13 +100,13 @@ export default {
                     </template>
                    <h3>Requirements to Create a Level</h3>
                     <p>
-                        Level must be over 30 seconds long, and it must be verified by someone, otherwise it will not be on the list.
+                        Level must be over 30 seconds long, and it must be showcased by someone, otherwise it will not be on the list.
                     </p>
                     <p>    
                         Multiple people can work on a level.
                     </p>
                     <p>
-                        The verifier can be someone that didn't make the level.
+                        The showcaser can be someone that didn't make the level.
                     </p>
                     <h3>Submission Requirements</h3>
                     <p>
