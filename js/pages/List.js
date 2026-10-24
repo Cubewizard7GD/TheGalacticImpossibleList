@@ -100,17 +100,17 @@ export default {
                     </template>
                    <h3>Requirements to Create a Level</h3>
                     <p>
-                        Level must be under 30 seconds long, and it must be made and verified by Libertas members.
+                        Level must be over 30 seconds long, and it must be verified by someone, otherwise it will not be on the list.
                     </p>
                     <p>    
                         Multiple people can work on a level.
                     </p>
                     <p>
-                        Verifier can be someone that didn't work on the level.
+                        The verifier can be someone that didn't make the level.
                     </p>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, along with CBF)
+                        Achieved the record without using hacks (however, FPS bypass, CBF, )
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -129,6 +129,9 @@ export default {
                     </p>
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
+                    </p>
+                    <p>
+                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                 </div>
             </div>
