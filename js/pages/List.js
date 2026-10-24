@@ -98,21 +98,19 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Requirements to Create A Level<h3>
-                    
+                   <h3>Requirements to Create a Level</h3>
                     <p>
-                        Level must be over 30 seconds long, and it must be verified by someone.
+                        Level must be under 30 seconds long, and it must be made and verified by Libertas members.
                     </p>
-                    <p>
+                    <p>    
                         Multiple people can work on a level.
                     </p>
                     <p>
                         Verifier can be someone that didn't work on the level.
                     </p>
-                    
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, so is CBF)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, along with CBF)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -124,16 +122,13 @@ export default {
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also show the player hit the endwall and the end screen, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes
                     </p>
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                 </div>
             </div>
