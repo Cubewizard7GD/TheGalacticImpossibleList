@@ -113,7 +113,7 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass is allowed, along with CBF)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieved the record on the level that isssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
