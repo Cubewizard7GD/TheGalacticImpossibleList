@@ -100,7 +100,7 @@ export default {
                     </template>
                    <h3>Requirements to Create a Level</h3>
                     <p>
-                        Level must be over 30 seconds long, and it must be showcased by someone, otherwise it will not be on the list.
+                        Level must be over 25 seconds long, and it must be showcased by someone, otherwise it will not be on the list.
                     </p>
                     <p>    
                         Multiple people can work on a level.
@@ -110,7 +110,7 @@ export default {
                     </p>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass, and CBF is allowed)
+                        Achieved the record without using hacks (however, FPS bypass up to 720FPS, tps bypass up to 4000TPS, and CBF is allowed)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
