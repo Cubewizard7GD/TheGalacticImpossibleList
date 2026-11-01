@@ -7,7 +7,8 @@
     "verification": "none",
     "percentToQualify": 9,
     "password": "Copyable",
-    "fps": "60",
+    "fpsORtps": "240",
+    "tps": "true",
     "records": [
         {
             "user": "Cubewizard7",
