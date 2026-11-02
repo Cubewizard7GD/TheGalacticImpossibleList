@@ -7,10 +7,10 @@
 
         <!-- Replace your server icon by uploading an image file named "list_icon.png"-->
         <link rel="icon" href="/list_icon.png" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preconnect" href="https://googleapis.com" />
+        <link rel="preconnect" href="https://gstatic.com" crossorigin />
         <link
-            href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap"
+            href="https://googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap"
             rel="stylesheet"
         />
         <link rel="stylesheet" type="text/css" href="/css/reset.css" />
@@ -30,8 +30,8 @@
             type="text/css"
             href="/css/components/tabs.css"
         />
-        <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
-        <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
+        <script src="https://unpkg.com"></script>
+        <script src="https://unpkg.com"></script>
         <script type="module" src="/js/main.js"></script>
     </head>
     <body id="app">
@@ -51,6 +51,7 @@
                     <span class="type-label-lg">Roulette</span>
                 </router-link>
                 <div class="nav__actions">
+                    <!-- Theme Toggle Option -->
                     <button
                         class="nav__icon"
                         @click.prevent="store.toggleDark()"
@@ -60,18 +61,23 @@
                             alt=""
                         />
                     </button>
-                    <!-- Replace the '#' with your discord server's invite-->
-                    <a class="nav__icon" href="https://discord.gg/fuRKbHdgYN">
+
+                    <!-- Community Server Invite Button -->
+                    <a class="nav__icon" href="https://discord.gg/fuRKbHdgYN" target="_blank">
                         <img src="/assets/discord.svg" alt="Discord Logo" />
                     </a>
-                    <!-- List record submission form, add a link to replace the '#' when putting a link to your list submission form-->
+
+                    <!-- Sub-List Quick Switch Option Links (DDL/TPL Dynamic Style Setup) -->
+                    <router-link class="nav__cta type-label-lg" to="/?list=main">Main List</router-link>
+                    <router-link class="nav__cta type-label-lg" to="/?list=legacy" style="opacity: 0.8;">Legacy List</router-link>
+
+                    <!-- Record submissions external entry links -->
                     <a
                         class="nav__cta type-label-lg"
                         href="https://forms.gle/LjfS8DXHw7MBPLMk7"
                         target="_blank"
                         >Submit level</a
                     >
-                      <!-- List record submission form, add a link to replace the '#' when putting a link to your list submission form-->
                     <a
                         class="nav__cta type-label-lg"
                         href="https://forms.gle/MmgaBeTd8TdchAtG7"
